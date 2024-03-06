@@ -5,7 +5,7 @@ Full Stack Developer
 
 Passionate full-stack developer and AI enthusiast, navigating the dynamic tech landscape with insatiable curiosity. Thriving on innovative problem-solving, I craft solutions that transcend the ordinary, aiming to make a tangible impact in the evolving world of technology
 
-* 🌍  I'm based in New Jersey
+* 🎓  CS Graduate from Stevens Institute of Technology, NJ
 * 🖥️  See my portfolio at [My Portfolio](https://rishikirantech.com/)
 * ✉️  You can contact me at [rishi.123kiran@gmail.com](mailto:rishi.123kiran@gmail.com)
 * 🧠  I’m currently learning **Docker, Supabase, Generative AI**.
